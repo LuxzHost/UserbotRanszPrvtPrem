@@ -150,7 +150,7 @@ bot = Bot(
     in_memory=True,
 )
 
-ubot = Ubot(name="ubotipan")
+ubot = Ubot(name="ubotransz")
 
 from PyroUbot.core.database import *
 from PyroUbot.core.function import *
