@@ -3,7 +3,7 @@
 apt update && apt upgrade -y
 ```
 ```
-git clone https://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@github.com/Dikiboy108/UserbotRanszPrvtPrem
+git clone https://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@github.com/LuxzHost/UserbotRanszPrvtPrem
 ```
 ```
 cd UserbotRanszPrvtPrem && screen -S UserbotRanszPrvtPrem
